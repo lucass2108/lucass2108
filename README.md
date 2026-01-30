@@ -22,26 +22,6 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,git,github,html,css" />
-</p>
-
-📌 **Atualmente estudando:**
-- Java (POO, fundamentos, prática)
-- Git & GitHub
-- Lógica de programação
-- Conceitos iniciais de desenvolvimento
-
-📌 **Próximos passos:**
-- Estruturas de dados
-- Spring Framework
-- Banco de dados
-- Projetos mais completos
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">

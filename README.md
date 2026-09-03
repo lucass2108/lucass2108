@@ -13,8 +13,8 @@
 
 ## 🧠 Sobre mim
 
-🎓 Atualmente curso **Ciência da Computação (CCO)** na **UNIFEI**(1/8)        
-☕ Foco inicial em **Java**, lógica de programação e fundamentos da computação  
+🎓 Atualmente curso **Ciência da Computação (CCO)** na **UNIFEI**(2/8)        
+☕ Foco inicial em **Java**, **C**, lógica de programação e fundamentos da computação  
 📍 Moro em **Maria da Fé – MG**  
 📚 Buscando construir uma base sólida para crescer como desenvolvedor  
 

@@ -5,10 +5,6 @@
   UNIFEI • Maria da Fé - MG
 </p>
 
-<p align="center">
-  <em>Calouro | Estudante de Java | Em constante evolução 🚀</em>
-</p>
-
 ---
 
 ## 🧠 Sobre mim
@@ -40,11 +36,3 @@
 </picture>
 
 ---
-
-## 📫 Contatos
-
-- GitHub: [@lucass2108](https://github.com/lucass2108)
-- e-mail: correasilva2007@gmail.com
-
----
-

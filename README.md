@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Lucas</h1>
 
 <p align="center">
-  <strong>Estudante de Ciência da Computação</strong> <br>
+  <strong>Estudante de Ciência da Computação</strong> 
   UNIFEI • Maria da Fé - MG
 </p>
 

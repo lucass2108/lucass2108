@@ -1,5 +1,4 @@
 <h1 align="center">👋 Olá, eu sou Lucas</h1>
-
 <p align="center">
   <strong>Estudante de Ciência da Computação</strong> 
   UNIFEI • Maria da Fé - MG
@@ -8,7 +7,6 @@
 ---
 
 ## 🧠 Sobre mim
-
 🎓 Atualmente curso **Ciência da Computação (CCO)** na **UNIFEI**(2/8)        
 ☕ Foco inicial em **Java**, **C**, lógica de programação e fundamentos da computação  
 📍 Moro em **Maria da Fé – MG**  
